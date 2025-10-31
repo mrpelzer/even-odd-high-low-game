@@ -11,7 +11,7 @@ The game keeps track of:
 - 🔥 Current Streak
 - 🔄 Total Rounds Played
 
-[DEMO](https://output.jsbin.com/putepal)
+[DEMO](https://output.jsbin.com/putepal):[https://output.jsbin.com/putepal](https://output.jsbin.com/putepal)
 ---
 
 ## 🧩 Game Requirements
